@@ -1,4 +1,4 @@
-protocol = "easyconnect" # "easyconnect" or "anyconnect"
+protocol = "easyconnect" # "easyconnect" or "atrust"
 server_address = "rvpn.zju.edu.cn"
 server_port = 443
 username = "username"
